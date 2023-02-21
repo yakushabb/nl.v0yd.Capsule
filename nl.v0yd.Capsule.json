@@ -18,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/verdre/Capsule.git",
-                    "commit": "d6d126789988b838bfc706585baa288d5dd657ed",
-                    "tag": "v1.0"
+                    "commit": "f5cd6333fe148ca1daea1e05dc5185dd27e1ff04",
+                    "tag": "v1.1"
                 }
             ]
         }
