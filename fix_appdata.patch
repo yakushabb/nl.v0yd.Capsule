@@ -1,0 +1,22 @@
+
+diff --git a/data/nl.v0yd.Capsule.metainfo.xml.in b/data/nl.v0yd.Capsule.metainfo.xml.in
+index c0b089e..b005046 100644
+--- a/data/nl.v0yd.Capsule.metainfo.xml.in
++++ b/data/nl.v0yd.Capsule.metainfo.xml.in
+@@ -3,7 +3,6 @@
+     <id>nl.v0yd.Capsule</id>
+     <metadata_license>CC0-1.0</metadata_license>
+     <project_license>GPL-3.0</project_license>
+-    <project_group>GNOME</project_group>
+     <launchable type="desktop-id">nl.v0yd.Capsule.desktop</launchable>
+     <name>Capsule</name>
+     <summary>Medication tracker</summary>
+@@ -57,6 +56,8 @@
+     </releases>
+     <url type="homepage">https://gitlab.gnome.org/verdre/capsule</url>
+     <url type="bugtracker">https://gitlab.gnome.org/verdre/capsule/issues</url>
++    <url type="vcs-browser">https://gitlab.gnome.org/verdre/capsule</url>
++    <url type="translate">https://gitlab.gnome.org/verdre/Capsule/-/tree/main/po</url>
+     <translation type="gettext">capsule</translation>
+     <developer_name>Jonas Dreßler</developer_name>
+     <content_rating type="oars-1.1">
